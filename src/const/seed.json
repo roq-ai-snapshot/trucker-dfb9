@@ -1,0 +1,3032 @@
+[
+  {
+    "supply": [
+      {
+        "id": "7052b6a3-466a-44a5-9661-dea7271ba2e1",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T14:20:43.799Z",
+        "updated_at": "2023-08-01T07:38:43.817Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b3825ae-a699-48d2-a78b-a3507ae6818a",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T22:31:37.841Z",
+        "updated_at": "2023-07-31T14:48:52.637Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0cf0dd7-f6f9-4772-8e67-fe7ef52b0dc2",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-07-31T21:33:51.017Z",
+        "updated_at": "2023-07-31T20:24:09.304Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59c1a0da-b64e-4121-b355-eaee8723a9bc",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T21:03:17.694Z",
+        "updated_at": "2023-08-01T02:18:18.699Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8e46263-6b61-46d3-8449-c21877529655",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-07-31T17:43:11.528Z",
+        "updated_at": "2023-08-01T08:16:55.874Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "9bdeab57-ffee-4f65-a29e-f1787c5e0f0f",
+        "service_info": "Service Info 1",
+        "created_at": "2023-07-31T23:31:17.626Z",
+        "updated_at": "2023-07-31T11:06:42.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c65716c5-a9a0-4648-b859-ea4eb9bd8135",
+        "service_info": "Service Info 2",
+        "created_at": "2023-07-31T20:55:41.314Z",
+        "updated_at": "2023-07-31T18:23:25.064Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3f9f854-1827-428b-b312-05c7d03f4eef",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T19:50:03.090Z",
+        "updated_at": "2023-07-31T19:42:54.944Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "259a4436-d4fa-4890-ba72-3e697196ac74",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T16:13:18.121Z",
+        "updated_at": "2023-08-01T05:39:15.758Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5cae6f46-a349-4de8-9ab5-865a125f3334",
+        "service_info": "Service Info 5",
+        "created_at": "2023-08-01T05:19:47.022Z",
+        "updated_at": "2023-07-31T22:20:31.610Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "000ffe57-8733-4725-950d-c0d8719acbf8",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T17:36:12.426Z",
+        "updated_at": "2023-08-01T04:11:17.611Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3381d4c0-e6bd-4190-95a9-886b67310bdb",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-07-31T21:55:59.368Z",
+        "updated_at": "2023-07-31T16:55:32.559Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "61dd2583-ad0b-4c14-bdff-c8ad68dc64c9",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-08-01T02:50:34.881Z",
+        "updated_at": "2023-08-01T04:27:32.450Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ab6dca23-fc3b-438b-a709-2dc8bd8869a7",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-07-31T23:59:25.715Z",
+        "updated_at": "2023-07-31T08:50:33.566Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "670ada48-7a2a-45e2-8362-96f584a3a31a",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-07-31T19:51:54.726Z",
+        "updated_at": "2023-07-31T11:50:22.651Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "16c50ea9-3f30-4fa5-8b3c-4afbf9dd03c4",
+        "trip_cost": 91470,
+        "created_at": "2023-08-01T05:51:49.524Z",
+        "updated_at": "2023-08-01T00:52:47.653Z",
+        "vehicle_id": "000ffe57-8733-4725-950d-c0d8719acbf8"
+      },
+      {
+        "id": "0112d60c-d05d-478c-b686-13b03a42494b",
+        "trip_cost": 38342,
+        "created_at": "2023-07-31T16:56:02.621Z",
+        "updated_at": "2023-08-01T03:20:19.944Z",
+        "vehicle_id": "000ffe57-8733-4725-950d-c0d8719acbf8"
+      },
+      {
+        "id": "8e73e479-ca5d-408f-bd16-95c8a3fab5a5",
+        "trip_cost": 77824,
+        "created_at": "2023-07-31T17:19:41.799Z",
+        "updated_at": "2023-07-31T22:34:51.431Z",
+        "vehicle_id": "61dd2583-ad0b-4c14-bdff-c8ad68dc64c9"
+      },
+      {
+        "id": "6353f146-9ed4-4cfc-aba3-38ce847c92d1",
+        "trip_cost": 97844,
+        "created_at": "2023-08-01T07:21:38.908Z",
+        "updated_at": "2023-08-01T06:44:49.952Z",
+        "vehicle_id": "000ffe57-8733-4725-950d-c0d8719acbf8"
+      },
+      {
+        "id": "9664e57b-d00c-4715-b6cc-56369e24a543",
+        "trip_cost": 36734,
+        "created_at": "2023-07-31T15:28:35.556Z",
+        "updated_at": "2023-08-01T01:41:08.046Z",
+        "vehicle_id": "000ffe57-8733-4725-950d-c0d8719acbf8"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "9ee73c7a-1013-452a-8cac-d3eb85039357",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T13:46:16.449Z",
+        "updated_at": "2023-07-31T12:51:36.587Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9c5f94b5-9663-4b62-9918-2ebf172438a7",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T23:59:08.957Z",
+        "updated_at": "2023-07-31T21:01:49.760Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "06624b4e-1e22-4121-ad43-247352f73e7a",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-08-01T07:31:55.301Z",
+        "updated_at": "2023-08-01T03:05:50.738Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8838aa0d-6853-499b-b99d-400b25e3fc0a",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-08-01T05:43:01.752Z",
+        "updated_at": "2023-07-31T09:45:55.451Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b2e0fa7-0959-4980-ab31-12ba30ad7d38",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-08-01T02:16:20.864Z",
+        "updated_at": "2023-07-31T08:59:13.366Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "0aee3579-1f6c-4392-846c-00ed5dda32ee",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T14:03:41.266Z",
+        "updated_at": "2023-08-01T01:06:43.196Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a4bdbf8-ce2e-4d1c-835c-d087914d1bad",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T08:46:11.704Z",
+        "updated_at": "2023-08-01T00:41:30.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aba57c91-97a9-4d47-a1eb-000312ed9a9c",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-07-31T17:21:45.082Z",
+        "updated_at": "2023-07-31T22:40:26.002Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c14d725-f2f4-491b-af14-a01126fa2c44",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T03:01:33.448Z",
+        "updated_at": "2023-08-01T04:17:55.606Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d014d078-5e67-4e25-abcc-1ddd6fd5de25",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-07-31T13:38:29.048Z",
+        "updated_at": "2023-08-01T05:08:10.923Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "fad1b243-98b7-480a-9544-7ae26e8287b8",
+        "fuel_type": "Fuel Type 1",
+        "price": 27347,
+        "created_at": "2023-07-31T10:25:12.663Z",
+        "updated_at": "2023-08-01T07:13:30.484Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0e44f12e-c022-43f5-899f-d0b9c82474bb",
+        "fuel_type": "Fuel Type 2",
+        "price": 4359,
+        "created_at": "2023-07-31T08:50:44.741Z",
+        "updated_at": "2023-07-31T08:36:04.233Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b76a7a21-5f93-45e2-addb-804625e819ff",
+        "fuel_type": "Fuel Type 3",
+        "price": 99545,
+        "created_at": "2023-07-31T09:51:20.204Z",
+        "updated_at": "2023-08-01T00:07:32.497Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dfec49b5-6a86-451f-a8ce-43ca2ada5133",
+        "fuel_type": "Fuel Type 4",
+        "price": 89860,
+        "created_at": "2023-07-31T11:44:12.742Z",
+        "updated_at": "2023-07-31T17:09:48.661Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5d063df6-676d-487e-a11e-03a2e6be3556",
+        "fuel_type": "Fuel Type 5",
+        "price": 95578,
+        "created_at": "2023-08-01T03:06:24.920Z",
+        "updated_at": "2023-08-01T02:28:33.109Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "b299c112-21c0-4936-a6e7-015aba5f2326",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-08-01T05:45:48.259Z",
+        "updated_at": "2023-08-01T02:18:51.569Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2160900c-32e9-4ef9-9ecb-f3419454c777",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-08-01T02:25:06.201Z",
+        "updated_at": "2023-08-01T04:13:50.192Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "663b67b5-ecc2-4319-9ed5-9ba4e63b90b1",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-08-01T02:55:11.843Z",
+        "updated_at": "2023-08-01T04:34:53.680Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4875b1c-7638-41b6-82b8-5443ac6c5266",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-07-31T15:07:06.496Z",
+        "updated_at": "2023-08-01T00:10:27.527Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9b283af-e923-4445-8be3-cda6784e955b",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T18:48:28.933Z",
+        "updated_at": "2023-07-31T12:09:37.374Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "b0ca05af-438f-4811-b623-94bf05f981c6",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T08:43:18.554Z",
+        "updated_at": "2023-07-31T22:45:34.423Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92770120-6d98-4a32-b1de-79dce9eed12e",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T20:42:13.578Z",
+        "updated_at": "2023-07-31T13:38:59.023Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6089e561-f9eb-4420-982a-8cb39897d815",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-08-01T06:30:19.544Z",
+        "updated_at": "2023-07-31T18:28:08.704Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ca48bf5-4a94-480e-8be6-7d2f5afdc28b",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T21:08:19.854Z",
+        "updated_at": "2023-08-01T04:35:38.205Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abc5221d-e292-4ecd-91be-dd06042b47d9",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-08-01T04:02:10.392Z",
+        "updated_at": "2023-07-31T09:41:49.825Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "6ab23da8-7eab-4826-8433-30a584b3def5",
+        "service_info": "Service Info 1",
+        "created_at": "2023-08-01T05:12:06.620Z",
+        "updated_at": "2023-08-01T07:08:08.467Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3c4d7a5-595b-4336-b3ce-966c4d4e929f",
+        "service_info": "Service Info 2",
+        "created_at": "2023-07-31T21:10:14.258Z",
+        "updated_at": "2023-07-31T17:23:20.527Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f5b2553-aa70-42da-b3ba-8e0d6e1f35de",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T09:19:43.272Z",
+        "updated_at": "2023-08-01T07:43:16.968Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af52cef3-1933-4a23-b359-a2074bebd0af",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T12:27:19.172Z",
+        "updated_at": "2023-07-31T09:20:42.350Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cca6d672-eb38-4550-b355-ac13d831f09f",
+        "service_info": "Service Info 5",
+        "created_at": "2023-08-01T03:22:42.738Z",
+        "updated_at": "2023-08-01T00:23:40.585Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "4e5d957a-21f7-45cb-93f5-63b9549c15af",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T14:54:37.298Z",
+        "updated_at": "2023-08-01T01:30:50.342Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3030e8e1-59f9-4a18-806d-a7ce67fea2ed",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-07-31T22:27:24.038Z",
+        "updated_at": "2023-07-31T08:40:52.532Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9b4fc8a2-830f-4572-8e56-1cda25ff6548",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-08-01T02:04:57.698Z",
+        "updated_at": "2023-07-31T17:33:02.680Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3219b2fd-440a-4397-9dc1-d18e5e5b0e38",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-08-01T03:28:27.415Z",
+        "updated_at": "2023-07-31T10:07:31.587Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7e11d8e9-b089-4e7a-a3b3-babae4345278",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-08-01T06:29:36.360Z",
+        "updated_at": "2023-07-31T15:04:51.110Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "4c123186-0f94-4338-9c64-6d06a3f3d18f",
+        "trip_cost": 99369,
+        "created_at": "2023-07-31T17:48:50.037Z",
+        "updated_at": "2023-08-01T05:01:55.942Z",
+        "vehicle_id": "9b4fc8a2-830f-4572-8e56-1cda25ff6548"
+      },
+      {
+        "id": "ab673039-286f-47e5-95a4-e863cf12dd39",
+        "trip_cost": 46307,
+        "created_at": "2023-08-01T05:10:47.556Z",
+        "updated_at": "2023-07-31T23:48:44.541Z",
+        "vehicle_id": "7e11d8e9-b089-4e7a-a3b3-babae4345278"
+      },
+      {
+        "id": "8a3bdb1c-df95-450e-9ffd-335c2ea512e5",
+        "trip_cost": 89255,
+        "created_at": "2023-07-31T20:34:57.850Z",
+        "updated_at": "2023-07-31T20:53:28.387Z",
+        "vehicle_id": "7e11d8e9-b089-4e7a-a3b3-babae4345278"
+      },
+      {
+        "id": "ad9121f4-9999-48c5-92af-1d713bc9abf5",
+        "trip_cost": 43955,
+        "created_at": "2023-07-31T10:54:13.615Z",
+        "updated_at": "2023-08-01T00:16:56.137Z",
+        "vehicle_id": "4e5d957a-21f7-45cb-93f5-63b9549c15af"
+      },
+      {
+        "id": "7b4180cb-ebf9-4b04-ba43-4f23a5e38091",
+        "trip_cost": 33944,
+        "created_at": "2023-07-31T23:03:29.087Z",
+        "updated_at": "2023-07-31T10:18:08.167Z",
+        "vehicle_id": "9b4fc8a2-830f-4572-8e56-1cda25ff6548"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "6df74771-686a-4b79-88dd-7f3053e917c6",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-08-01T02:54:46.851Z",
+        "updated_at": "2023-07-31T12:00:29.577Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e6755bd1-b2e9-441e-a952-92f6db53c86e",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T22:50:12.959Z",
+        "updated_at": "2023-07-31T14:09:08.910Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6f1009a7-3b40-4aa1-b2ff-2f7215e750fc",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-08-01T06:04:37.888Z",
+        "updated_at": "2023-08-01T02:42:41.101Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c8fb89ec-3aad-45a3-8a5a-129e02574261",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-07-31T09:31:35.399Z",
+        "updated_at": "2023-07-31T18:16:22.153Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9c58b0be-507d-4e07-8f80-9009b4c9a0b9",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-08-01T06:20:45.774Z",
+        "updated_at": "2023-07-31T12:07:40.550Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "bbc3c81d-1641-4225-a30c-3a6dac40b1f3",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T17:16:08.117Z",
+        "updated_at": "2023-08-01T01:57:46.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62e71066-b49a-4acd-9097-f62900c417a4",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T11:34:13.455Z",
+        "updated_at": "2023-07-31T17:17:38.088Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44f2c8b2-c3c4-4140-9998-5b295f4f9abe",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-07-31T17:52:11.647Z",
+        "updated_at": "2023-08-01T01:05:49.411Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c456d8da-fc0c-40b1-ac0a-4ba8fb945c72",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T06:42:37.731Z",
+        "updated_at": "2023-07-31T12:07:08.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "515cd990-b2d7-4f29-bbb8-a30a8a31e082",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-07-31T17:53:30.931Z",
+        "updated_at": "2023-07-31T19:44:39.399Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "1b5ee5ec-23f1-4efb-b339-0cf329ed22f7",
+        "fuel_type": "Fuel Type 1",
+        "price": 66509,
+        "created_at": "2023-07-31T12:08:52.362Z",
+        "updated_at": "2023-08-01T06:11:56.668Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d1f25b49-1f2d-49f2-b72a-ecbddd2c63f6",
+        "fuel_type": "Fuel Type 2",
+        "price": 84691,
+        "created_at": "2023-07-31T22:06:29.450Z",
+        "updated_at": "2023-08-01T08:33:49.609Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "83ce8b37-20cf-4c60-a9ab-9b685b9bfa4c",
+        "fuel_type": "Fuel Type 3",
+        "price": 4503,
+        "created_at": "2023-07-31T14:43:56.448Z",
+        "updated_at": "2023-07-31T22:38:18.426Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "88420c36-20eb-4989-b0a8-85e398b693e2",
+        "fuel_type": "Fuel Type 4",
+        "price": 71956,
+        "created_at": "2023-07-31T19:22:34.326Z",
+        "updated_at": "2023-07-31T11:46:38.311Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b1bb643-128a-4837-b27e-1d14aed9e3b2",
+        "fuel_type": "Fuel Type 5",
+        "price": 72313,
+        "created_at": "2023-07-31T14:09:45.097Z",
+        "updated_at": "2023-08-01T00:56:42.763Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "b4b8ba91-836d-4557-84dd-9e2e9c39ec96",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-08-01T08:28:52.800Z",
+        "updated_at": "2023-08-01T05:49:00.609Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdb2807e-b069-4ec4-8a13-d4bcde78f349",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-08-01T05:08:01.759Z",
+        "updated_at": "2023-08-01T02:39:42.752Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ae24ad1-a2c0-4dd7-b865-76093170bdc8",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-08-01T06:27:13.205Z",
+        "updated_at": "2023-07-31T10:51:46.379Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41ec5ad2-7723-4692-b03d-d977d7b980ed",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-07-31T18:18:35.558Z",
+        "updated_at": "2023-07-31T18:45:33.762Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a4bc0be-1f31-441d-856f-221e2d9719dd",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T10:18:33.961Z",
+        "updated_at": "2023-08-01T01:18:23.163Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "b835c22d-2cbc-4de6-821d-5791bd44b34e",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T14:58:54.114Z",
+        "updated_at": "2023-08-01T02:24:05.911Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1cc64c11-2c12-4060-a7dc-044b416aa9fa",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T19:00:58.281Z",
+        "updated_at": "2023-07-31T21:35:07.791Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8efc68ee-2960-49d3-b48f-04fefc2f760c",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-07-31T18:53:15.313Z",
+        "updated_at": "2023-08-01T03:19:04.648Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ec6efed-ba2a-40cd-8301-bc185a85ba7f",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T17:34:58.588Z",
+        "updated_at": "2023-07-31T17:34:01.785Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59328e13-0969-409e-a5c2-40c55a11baa4",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-08-01T06:42:47.149Z",
+        "updated_at": "2023-07-31T13:46:33.190Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "c00374b6-28c8-4e12-a45d-4b18e9b632c3",
+        "service_info": "Service Info 1",
+        "created_at": "2023-08-01T03:01:24.859Z",
+        "updated_at": "2023-08-01T07:46:50.185Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9242dc50-b8b3-4d8e-8532-7771cf116178",
+        "service_info": "Service Info 2",
+        "created_at": "2023-07-31T19:34:57.240Z",
+        "updated_at": "2023-07-31T19:27:39.286Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4bead25a-c2fb-48f0-851f-82bbd51fa9cc",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T14:54:48.687Z",
+        "updated_at": "2023-07-31T15:21:10.960Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdb54bf9-24c3-4dcc-8db9-a9716cdf6510",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T14:44:40.570Z",
+        "updated_at": "2023-08-01T08:23:02.129Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1ed1209-4a25-4992-99e3-96af0ec74cbc",
+        "service_info": "Service Info 5",
+        "created_at": "2023-08-01T01:21:52.195Z",
+        "updated_at": "2023-08-01T00:26:07.793Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "821b19fa-e8e0-4a28-a007-635a850c9e31",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T14:57:41.411Z",
+        "updated_at": "2023-08-01T07:20:40.088Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d69c184c-00d6-4979-8729-cec713e53103",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-07-31T09:20:46.818Z",
+        "updated_at": "2023-08-01T03:25:28.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7cd0fb18-e763-49f1-b0d8-0cac5bb39df6",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T15:04:42.849Z",
+        "updated_at": "2023-07-31T14:07:59.228Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "719d6f1c-4653-452d-831c-47dd2abaeae6",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-08-01T00:53:02.354Z",
+        "updated_at": "2023-07-31T13:27:49.488Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "be95b05b-0652-42ba-9b53-d2fd79f94c5e",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-07-31T21:57:26.637Z",
+        "updated_at": "2023-08-01T06:14:41.400Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "c5657fe2-3e1c-4fae-aa2a-10707185ced9",
+        "trip_cost": 37788,
+        "created_at": "2023-08-01T04:01:10.763Z",
+        "updated_at": "2023-07-31T17:09:41.040Z",
+        "vehicle_id": "d69c184c-00d6-4979-8729-cec713e53103"
+      },
+      {
+        "id": "a9cc1759-4ff1-4b5c-ad12-d62fa7366c92",
+        "trip_cost": 47550,
+        "created_at": "2023-07-31T15:42:28.160Z",
+        "updated_at": "2023-08-01T02:55:06.679Z",
+        "vehicle_id": "821b19fa-e8e0-4a28-a007-635a850c9e31"
+      },
+      {
+        "id": "1092f257-157a-4a52-a044-932c7cd0a6fc",
+        "trip_cost": 66606,
+        "created_at": "2023-07-31T09:42:43.070Z",
+        "updated_at": "2023-07-31T14:48:48.732Z",
+        "vehicle_id": "7cd0fb18-e763-49f1-b0d8-0cac5bb39df6"
+      },
+      {
+        "id": "515092b5-2520-4265-9f7d-d0615ace07b2",
+        "trip_cost": 84222,
+        "created_at": "2023-07-31T11:15:54.674Z",
+        "updated_at": "2023-07-31T21:15:48.595Z",
+        "vehicle_id": "be95b05b-0652-42ba-9b53-d2fd79f94c5e"
+      },
+      {
+        "id": "be160f83-3bec-45e9-8101-d0b08952234a",
+        "trip_cost": 40228,
+        "created_at": "2023-08-01T05:59:13.842Z",
+        "updated_at": "2023-07-31T17:06:47.561Z",
+        "vehicle_id": "d69c184c-00d6-4979-8729-cec713e53103"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "a8ca44df-3243-4145-ba7e-5a0664da8b24",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T13:53:14.474Z",
+        "updated_at": "2023-08-01T07:14:53.371Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "89ae9899-0964-4ad1-b7eb-45ee097106fd",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T23:38:19.733Z",
+        "updated_at": "2023-07-31T23:23:36.554Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb199b58-a78f-4238-af12-1e10598f9ce7",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-07-31T13:00:00.394Z",
+        "updated_at": "2023-07-31T20:03:03.155Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d52d8449-6206-47df-8578-e570fe149549",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-08-01T07:35:59.977Z",
+        "updated_at": "2023-07-31T21:08:36.937Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "23d300ea-d6c5-4d6f-b871-cc01024cd752",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-07-31T09:55:09.664Z",
+        "updated_at": "2023-07-31T12:52:53.701Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "02da90ea-c473-45f0-91cb-61fa8ee41b0a",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T12:06:11.246Z",
+        "updated_at": "2023-08-01T07:05:03.919Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85fd59e3-9b19-4b49-bc3b-985a6b2c0092",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T17:21:30.782Z",
+        "updated_at": "2023-08-01T05:27:27.266Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0937c4f3-1d0b-483f-bd54-3a99e09f1162",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-08-01T03:35:17.254Z",
+        "updated_at": "2023-07-31T09:31:05.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dae1ea1a-f01f-4175-91c6-fde7bcfe3122",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-07-31T20:54:33.484Z",
+        "updated_at": "2023-08-01T08:15:35.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "691ed69f-0e4d-47e3-b191-22340e221da4",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-07-31T21:33:18.140Z",
+        "updated_at": "2023-07-31T14:46:20.114Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "501c5281-875e-46df-b5bd-de5263840ecc",
+        "fuel_type": "Fuel Type 1",
+        "price": 69977,
+        "created_at": "2023-07-31T18:43:33.378Z",
+        "updated_at": "2023-08-01T08:30:24.238Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c2cb9e08-d437-4506-a648-3ed68d5070aa",
+        "fuel_type": "Fuel Type 2",
+        "price": 19552,
+        "created_at": "2023-07-31T18:31:53.458Z",
+        "updated_at": "2023-08-01T05:35:30.402Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "758536c6-0cc9-4453-903d-00f9236b3fad",
+        "fuel_type": "Fuel Type 3",
+        "price": 85005,
+        "created_at": "2023-08-01T05:45:08.967Z",
+        "updated_at": "2023-08-01T02:51:58.151Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b1363e8f-fd58-4b54-8cbf-c6b008ce6c65",
+        "fuel_type": "Fuel Type 4",
+        "price": 39957,
+        "created_at": "2023-07-31T14:23:29.058Z",
+        "updated_at": "2023-07-31T11:40:08.930Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6ecca1e7-8787-487c-a8d5-633acdf0ee0b",
+        "fuel_type": "Fuel Type 5",
+        "price": 37189,
+        "created_at": "2023-08-01T02:26:46.019Z",
+        "updated_at": "2023-07-31T23:47:41.015Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "5dcf1ed7-395c-4b79-9dfb-323e87a0ce48",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-08-01T07:17:18.254Z",
+        "updated_at": "2023-08-01T00:10:05.410Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df64c79e-52a0-4147-a605-f284d257bb70",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-07-31T17:27:39.928Z",
+        "updated_at": "2023-07-31T22:55:54.961Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d03d42f1-70e0-48a3-9910-9fdfcb414c0d",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-07-31T09:19:37.349Z",
+        "updated_at": "2023-07-31T08:55:21.148Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c177188d-ca82-428d-9d2b-0063d4caf403",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-08-01T07:29:57.555Z",
+        "updated_at": "2023-08-01T04:18:39.215Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ffc7dfaa-7149-41f6-8b3a-656c51e695ab",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-08-01T05:30:36.438Z",
+        "updated_at": "2023-07-31T10:09:20.355Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "f20f04d3-aa51-448d-8416-b192cc08e424",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-08-01T06:38:37.414Z",
+        "updated_at": "2023-08-01T00:31:17.141Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f78b0c0-d4fe-4cfe-9607-7aa6997f5b5e",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T08:49:04.076Z",
+        "updated_at": "2023-08-01T01:13:27.881Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b158bb2-c893-42ee-b640-e7e1681e03e0",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-08-01T08:25:46.348Z",
+        "updated_at": "2023-07-31T17:56:17.141Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f6fb8da-34a9-46ce-a30a-b71b04dd27b6",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-08-01T07:26:09.148Z",
+        "updated_at": "2023-08-01T05:27:33.062Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea50a3a4-8e31-4e8e-b437-e4ed1f02782c",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-08-01T02:23:33.429Z",
+        "updated_at": "2023-08-01T03:17:31.824Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "0928d649-c9fe-4ee2-8093-7f5dffa9468f",
+        "service_info": "Service Info 1",
+        "created_at": "2023-08-01T01:38:39.690Z",
+        "updated_at": "2023-08-01T06:52:36.713Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6912ea7a-087b-41cc-8374-ab7e7b2f381c",
+        "service_info": "Service Info 2",
+        "created_at": "2023-08-01T07:38:47.428Z",
+        "updated_at": "2023-07-31T23:01:05.939Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "511e1484-599f-4a47-b5fb-52bb4d0495df",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T12:29:26.011Z",
+        "updated_at": "2023-07-31T14:45:34.350Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fb2d62d-05a7-4aaa-84f5-aece3d1c14ef",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T12:16:42.186Z",
+        "updated_at": "2023-08-01T08:27:14.118Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b76a691-d142-469b-b6a1-5048c18e80b0",
+        "service_info": "Service Info 5",
+        "created_at": "2023-08-01T00:45:48.747Z",
+        "updated_at": "2023-08-01T01:03:13.560Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "b631acc6-469c-4f59-b08d-6bfa97612685",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-08-01T07:32:07.854Z",
+        "updated_at": "2023-08-01T08:18:07.673Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cd47f06f-401f-4399-acdb-320e9ca6ad8c",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-07-31T14:40:18.057Z",
+        "updated_at": "2023-08-01T03:09:07.735Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a9607ed6-58a3-45af-9b88-474bb072dc25",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T19:13:38.539Z",
+        "updated_at": "2023-08-01T01:54:37.021Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "43fa56ad-1e2e-4915-a50b-ec2557584032",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-08-01T05:51:51.069Z",
+        "updated_at": "2023-07-31T18:58:47.633Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ddebbb66-e16b-47a3-a69f-dce8966e3438",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-07-31T22:08:09.092Z",
+        "updated_at": "2023-07-31T19:39:26.094Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "a333d443-9023-4d02-95f9-dcfe33300082",
+        "trip_cost": 30197,
+        "created_at": "2023-07-31T14:20:07.837Z",
+        "updated_at": "2023-07-31T16:37:44.712Z",
+        "vehicle_id": "b631acc6-469c-4f59-b08d-6bfa97612685"
+      },
+      {
+        "id": "40e831ea-af42-41f2-a8a6-4d155a0cd4b4",
+        "trip_cost": 88448,
+        "created_at": "2023-07-31T23:08:28.662Z",
+        "updated_at": "2023-07-31T21:51:49.125Z",
+        "vehicle_id": "43fa56ad-1e2e-4915-a50b-ec2557584032"
+      },
+      {
+        "id": "d7b13645-11af-455f-bca1-9ec1a370a153",
+        "trip_cost": 86948,
+        "created_at": "2023-07-31T11:46:48.669Z",
+        "updated_at": "2023-07-31T10:00:23.802Z",
+        "vehicle_id": "ddebbb66-e16b-47a3-a69f-dce8966e3438"
+      },
+      {
+        "id": "1e50d743-bcde-4dfa-877f-2bde5ca7f263",
+        "trip_cost": 58226,
+        "created_at": "2023-08-01T00:52:25.131Z",
+        "updated_at": "2023-08-01T04:40:51.411Z",
+        "vehicle_id": "43fa56ad-1e2e-4915-a50b-ec2557584032"
+      },
+      {
+        "id": "c07b5b62-bda1-436c-a9a1-8760b9098f66",
+        "trip_cost": 80838,
+        "created_at": "2023-08-01T00:42:22.912Z",
+        "updated_at": "2023-08-01T00:04:26.513Z",
+        "vehicle_id": "a9607ed6-58a3-45af-9b88-474bb072dc25"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "4414de9e-d891-488e-aaeb-39ae8f66d6b1",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-08-01T01:14:21.502Z",
+        "updated_at": "2023-07-31T19:15:36.769Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e8e2f7f8-e926-4e64-9c35-451628edabf1",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T18:43:33.790Z",
+        "updated_at": "2023-08-01T02:09:45.771Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "205cec97-9ea6-43c0-9567-b7e6f996b31a",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-08-01T02:29:21.819Z",
+        "updated_at": "2023-07-31T18:10:41.968Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "70d721ea-5920-4a7f-a8d5-55d403b0f694",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-07-31T19:56:20.767Z",
+        "updated_at": "2023-08-01T02:57:41.076Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "391265f4-1e1b-4bc2-a436-42bbb3132ddd",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-08-01T05:59:31.866Z",
+        "updated_at": "2023-08-01T00:12:32.321Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "53f83938-2a5c-4a67-911c-7587ab32fcef",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T21:13:40.698Z",
+        "updated_at": "2023-08-01T03:26:09.784Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3404ff1-aeb3-4161-a7f9-3fc11ee8a5c4",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-08-01T07:54:39.910Z",
+        "updated_at": "2023-07-31T11:29:14.080Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1930607-3766-4b4d-b00e-17cbbb85b28a",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-07-31T16:01:19.270Z",
+        "updated_at": "2023-08-01T04:51:22.341Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13adbdec-9758-49c0-9a90-5f6a2e178c87",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T03:35:52.740Z",
+        "updated_at": "2023-08-01T01:42:22.990Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fcb7bfbb-9f75-4988-9a46-95444f39c5af",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-08-01T02:47:15.618Z",
+        "updated_at": "2023-08-01T05:32:35.812Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "0894da0b-dc75-4200-9a61-d784583adbe2",
+        "fuel_type": "Fuel Type 1",
+        "price": 92053,
+        "created_at": "2023-07-31T10:22:09.145Z",
+        "updated_at": "2023-07-31T19:03:10.928Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8bf4d6c7-df69-44dc-b876-7eab752de955",
+        "fuel_type": "Fuel Type 2",
+        "price": 94070,
+        "created_at": "2023-08-01T07:44:55.634Z",
+        "updated_at": "2023-07-31T12:33:48.136Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e8ec985a-1299-49fb-81ac-f8396a055ee8",
+        "fuel_type": "Fuel Type 3",
+        "price": 51470,
+        "created_at": "2023-07-31T19:56:26.050Z",
+        "updated_at": "2023-07-31T17:19:01.015Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "88254a39-3ad7-4098-af31-743557edd8ea",
+        "fuel_type": "Fuel Type 4",
+        "price": 70034,
+        "created_at": "2023-08-01T00:06:28.036Z",
+        "updated_at": "2023-07-31T08:52:15.572Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "94d1da40-4379-4b11-a1d5-a38a87e7e60d",
+        "fuel_type": "Fuel Type 5",
+        "price": 54092,
+        "created_at": "2023-07-31T15:04:15.742Z",
+        "updated_at": "2023-07-31T10:25:02.134Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "729ca5dd-254d-4de6-99ce-f71b1fffeb03",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-07-31T14:06:54.876Z",
+        "updated_at": "2023-07-31T15:46:04.539Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a49bc00-b17d-4992-bd43-5e3f7c3821a5",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-08-01T07:19:03.084Z",
+        "updated_at": "2023-07-31T17:32:08.940Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6be7f42f-2d24-41ea-8562-e5339ea3c39a",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-07-31T16:26:44.061Z",
+        "updated_at": "2023-07-31T18:06:53.300Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90d7b3f0-6690-4a6a-8fe2-7dae902ab62c",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-08-01T05:08:21.847Z",
+        "updated_at": "2023-07-31T09:47:49.760Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a61cfcd2-0fc2-4c17-bd20-17b4e48c75e9",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T18:27:49.208Z",
+        "updated_at": "2023-07-31T15:06:15.606Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "91e05009-1e9d-4f0e-95eb-7a0692f8c71f",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T21:49:23.910Z",
+        "updated_at": "2023-08-01T03:22:31.312Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20f44315-d929-45af-93fe-27f6ec801005",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T17:20:24.248Z",
+        "updated_at": "2023-07-31T14:36:54.534Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ccdc8d6-a86c-433b-a217-e2c0be207502",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-07-31T11:57:51.679Z",
+        "updated_at": "2023-07-31T13:32:00.861Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2081fb16-a86b-4dc3-9689-daa04066c92e",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-08-01T05:36:42.543Z",
+        "updated_at": "2023-07-31T19:36:48.679Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "74327a24-6dfb-45f1-9f48-98cea8a44d96",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-07-31T08:56:09.721Z",
+        "updated_at": "2023-08-01T07:24:51.093Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "c8a3ad19-4c47-401d-baa1-e941228e3ba2",
+        "service_info": "Service Info 1",
+        "created_at": "2023-07-31T13:54:08.241Z",
+        "updated_at": "2023-07-31T18:56:18.937Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b1d24bf-0c4a-4f1c-9f02-63b770a15b35",
+        "service_info": "Service Info 2",
+        "created_at": "2023-08-01T00:55:36.897Z",
+        "updated_at": "2023-07-31T16:03:46.496Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d11032c-8459-452b-ab4d-d6d57cb4ef58",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T20:26:28.649Z",
+        "updated_at": "2023-07-31T15:43:48.442Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96292372-b6dc-44a3-8b06-d5f9c2c7792e",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T22:13:01.265Z",
+        "updated_at": "2023-08-01T00:51:27.685Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4bdef3eb-da7e-4549-9635-913ab3fcf963",
+        "service_info": "Service Info 5",
+        "created_at": "2023-07-31T20:20:34.133Z",
+        "updated_at": "2023-07-31T14:38:13.453Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "fea65523-aaa2-439d-8699-d0d1df687e5e",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-08-01T01:40:51.037Z",
+        "updated_at": "2023-08-01T01:15:42.431Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "54e5b586-26cb-4112-bdbe-77643cc5fe1e",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-08-01T07:57:08.955Z",
+        "updated_at": "2023-07-31T10:48:19.419Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b0478a5-1890-4eb1-a271-140f6c1ba3aa",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T08:40:26.228Z",
+        "updated_at": "2023-07-31T09:13:09.591Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "350c0b0d-7956-4517-9208-c119583b2886",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-07-31T14:22:08.944Z",
+        "updated_at": "2023-08-01T06:04:15.169Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d56a40cd-296c-4f42-8fce-456b035b2c0e",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-08-01T07:23:39.701Z",
+        "updated_at": "2023-07-31T08:45:54.592Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "8bfdd559-97f7-4dbd-9766-3923bdb05445",
+        "trip_cost": 33362,
+        "created_at": "2023-07-31T14:46:12.559Z",
+        "updated_at": "2023-08-01T04:20:46.113Z",
+        "vehicle_id": "54e5b586-26cb-4112-bdbe-77643cc5fe1e"
+      },
+      {
+        "id": "bc53d754-1a58-476d-9fdb-4b7fe20d0a5c",
+        "trip_cost": 75723,
+        "created_at": "2023-08-01T08:23:15.433Z",
+        "updated_at": "2023-08-01T07:33:11.120Z",
+        "vehicle_id": "d56a40cd-296c-4f42-8fce-456b035b2c0e"
+      },
+      {
+        "id": "7e09cbd4-3d33-4fe1-bd9f-1b42cc3abc84",
+        "trip_cost": 8734,
+        "created_at": "2023-07-31T21:30:25.022Z",
+        "updated_at": "2023-08-01T06:48:13.173Z",
+        "vehicle_id": "350c0b0d-7956-4517-9208-c119583b2886"
+      },
+      {
+        "id": "c94baf37-4292-4911-bd62-8dbeef6f33b6",
+        "trip_cost": 69564,
+        "created_at": "2023-08-01T06:56:27.582Z",
+        "updated_at": "2023-07-31T14:04:37.398Z",
+        "vehicle_id": "350c0b0d-7956-4517-9208-c119583b2886"
+      },
+      {
+        "id": "3e02547d-3068-44a6-ac4e-256c5f56fb33",
+        "trip_cost": 80611,
+        "created_at": "2023-08-01T05:15:20.737Z",
+        "updated_at": "2023-07-31T13:06:38.813Z",
+        "vehicle_id": "54e5b586-26cb-4112-bdbe-77643cc5fe1e"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "997e42dc-d0ec-436a-b97d-9aa39dc5d4df",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T19:31:19.060Z",
+        "updated_at": "2023-07-31T19:32:14.693Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f872f502-7f67-4412-bb63-8d765e6cadcd",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T13:51:35.562Z",
+        "updated_at": "2023-07-31T13:33:43.522Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ac5ceacf-8b98-4bac-9302-8d8a80e1782b",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-08-01T08:26:27.936Z",
+        "updated_at": "2023-07-31T18:52:25.378Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ac9718e3-5906-4ef2-8700-c233c59cf8d2",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-07-31T15:07:31.059Z",
+        "updated_at": "2023-07-31T22:14:09.282Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "97054f77-b9aa-41a0-b0f7-a20146c48103",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-08-01T06:05:04.378Z",
+        "updated_at": "2023-07-31T15:58:36.144Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "fa75f030-0bf5-49c6-a729-a6ee90cd061e",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T19:57:59.505Z",
+        "updated_at": "2023-07-31T11:33:49.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6ab8c1c-3ae4-42cc-b445-3372a1c1c2f8",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T12:06:59.356Z",
+        "updated_at": "2023-08-01T04:25:34.809Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db03bc1c-7095-4fe2-8f22-6c62d2d0c246",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-08-01T08:04:10.795Z",
+        "updated_at": "2023-08-01T08:29:27.901Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca7aff3c-6dcb-4f7a-90e7-55ced364b914",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-07-31T16:02:42.715Z",
+        "updated_at": "2023-08-01T04:23:23.095Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acf719d4-862a-47d0-826e-de603193dca5",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-08-01T05:39:41.489Z",
+        "updated_at": "2023-07-31T10:47:55.076Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "c0f3459c-a4ff-4012-b96b-7d22e04dd50d",
+        "fuel_type": "Fuel Type 1",
+        "price": 78358,
+        "created_at": "2023-07-31T20:32:56.514Z",
+        "updated_at": "2023-08-01T04:19:30.636Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "17967570-6f57-478a-9db6-ab65f1ef158e",
+        "fuel_type": "Fuel Type 2",
+        "price": 56462,
+        "created_at": "2023-08-01T07:26:56.005Z",
+        "updated_at": "2023-08-01T00:41:14.934Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "347ab4aa-f42d-470d-96c1-6495049e6fc3",
+        "fuel_type": "Fuel Type 3",
+        "price": 17711,
+        "created_at": "2023-07-31T23:35:45.961Z",
+        "updated_at": "2023-07-31T17:41:11.598Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "461b8e64-08fc-4c79-b849-3c455f40e01f",
+        "fuel_type": "Fuel Type 4",
+        "price": 68408,
+        "created_at": "2023-08-01T01:59:59.852Z",
+        "updated_at": "2023-08-01T04:32:40.619Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7ab02368-af84-4a8a-8e90-23268234890f",
+        "fuel_type": "Fuel Type 5",
+        "price": 82786,
+        "created_at": "2023-07-31T15:12:18.080Z",
+        "updated_at": "2023-07-31T13:04:36.765Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "f68ac1ed-b430-4f87-a3ed-4b227672da6f",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-07-31T14:26:26.076Z",
+        "updated_at": "2023-07-31T11:16:59.666Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e320b94f-fc25-4b6f-9e0a-d70b6c579ddb",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-07-31T22:34:40.931Z",
+        "updated_at": "2023-07-31T16:41:18.202Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3021a7e-1f42-49b7-b1fb-7f058a93ae73",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-08-01T08:25:44.768Z",
+        "updated_at": "2023-07-31T14:44:08.710Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab92f579-6837-4ba9-8a39-6b2f66e58246",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-07-31T15:13:09.758Z",
+        "updated_at": "2023-07-31T22:03:59.310Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00ea91ff-c3b9-49d2-a70c-4a5525e95a14",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-08-01T00:16:56.232Z",
+        "updated_at": "2023-07-31T15:39:10.797Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "abc6b672-b4bf-4c71-a14f-1b9c831b9b3b",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T14:20:18.602Z",
+        "updated_at": "2023-07-31T11:54:39.435Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "424db58d-39ce-4448-8451-32242e1dcaf8",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-08-01T01:40:25.668Z",
+        "updated_at": "2023-08-01T02:27:06.134Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a746d377-830e-4734-8322-aafe068155d5",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-08-01T05:27:08.335Z",
+        "updated_at": "2023-07-31T16:57:16.097Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47199e35-2044-4c73-8d95-e4e89d0d3dcf",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T13:32:05.087Z",
+        "updated_at": "2023-08-01T07:18:21.669Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a633da0-c732-46f6-bf6e-84663b5e8969",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-08-01T01:37:38.764Z",
+        "updated_at": "2023-07-31T18:39:25.736Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "8ae92e95-9778-46de-a5d2-569610f080d7",
+        "service_info": "Service Info 1",
+        "created_at": "2023-07-31T14:40:23.918Z",
+        "updated_at": "2023-08-01T04:50:47.737Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "08a7274c-55e6-49e9-bb14-db1395775791",
+        "service_info": "Service Info 2",
+        "created_at": "2023-07-31T21:05:00.868Z",
+        "updated_at": "2023-07-31T18:50:40.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "987b7697-c2c8-4ce0-a35b-ad0af5048197",
+        "service_info": "Service Info 3",
+        "created_at": "2023-08-01T02:38:10.530Z",
+        "updated_at": "2023-07-31T08:55:55.751Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4064a05-8ee9-43e6-9570-835ba2b1c65f",
+        "service_info": "Service Info 4",
+        "created_at": "2023-08-01T07:18:18.493Z",
+        "updated_at": "2023-08-01T06:18:24.210Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d4c3d18-05c8-4a2f-8194-04352556d1cd",
+        "service_info": "Service Info 5",
+        "created_at": "2023-07-31T16:58:36.180Z",
+        "updated_at": "2023-07-31T23:21:59.736Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "969b363a-e1b4-4379-bc9a-ddbb6e64ea43",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T22:55:19.367Z",
+        "updated_at": "2023-07-31T09:40:15.307Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8e6a7e01-b28b-4c56-ad39-b919bc9c4554",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-08-01T06:30:54.376Z",
+        "updated_at": "2023-07-31T10:31:09.952Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "520459a9-172a-4517-a226-8af42363da94",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-08-01T00:43:45.352Z",
+        "updated_at": "2023-07-31T22:18:23.336Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9bc3322e-a455-4ea6-a956-8f1de6693a4d",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-07-31T16:48:51.880Z",
+        "updated_at": "2023-07-31T12:49:52.782Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "06a35ce4-3413-419f-8146-a16ba305deed",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-07-31T11:13:06.455Z",
+        "updated_at": "2023-08-01T02:57:48.951Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "2b74d529-c699-4b87-96c5-5ac3707fb80f",
+        "trip_cost": 57715,
+        "created_at": "2023-07-31T17:43:52.402Z",
+        "updated_at": "2023-08-01T00:59:09.154Z",
+        "vehicle_id": "9bc3322e-a455-4ea6-a956-8f1de6693a4d"
+      },
+      {
+        "id": "288beb3b-88d9-4a1f-8b13-4e73e95602e7",
+        "trip_cost": 89162,
+        "created_at": "2023-08-01T08:30:54.380Z",
+        "updated_at": "2023-07-31T12:13:53.486Z",
+        "vehicle_id": "520459a9-172a-4517-a226-8af42363da94"
+      },
+      {
+        "id": "7d01c549-d69a-48ba-998a-6a6c66a3a629",
+        "trip_cost": 3974,
+        "created_at": "2023-07-31T14:29:14.646Z",
+        "updated_at": "2023-07-31T21:01:38.690Z",
+        "vehicle_id": "520459a9-172a-4517-a226-8af42363da94"
+      },
+      {
+        "id": "5d05310c-a810-4c10-944a-a7a820226f77",
+        "trip_cost": 32620,
+        "created_at": "2023-08-01T00:02:08.857Z",
+        "updated_at": "2023-07-31T19:52:33.448Z",
+        "vehicle_id": "969b363a-e1b4-4379-bc9a-ddbb6e64ea43"
+      },
+      {
+        "id": "96499a5d-aab0-4cdc-85f3-e64d7d8d2b44",
+        "trip_cost": 32590,
+        "created_at": "2023-07-31T18:13:14.080Z",
+        "updated_at": "2023-07-31T17:54:03.474Z",
+        "vehicle_id": "8e6a7e01-b28b-4c56-ad39-b919bc9c4554"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "ed880141-7016-4027-adf5-41f5a992e878",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T16:59:41.534Z",
+        "updated_at": "2023-07-31T19:27:23.061Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b9a3f5a7-cca7-44e7-9790-8f60b94e17df",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T22:16:20.977Z",
+        "updated_at": "2023-07-31T09:35:18.320Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "13e98997-759d-4044-a27d-ac88345573f8",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-07-31T20:49:22.651Z",
+        "updated_at": "2023-08-01T02:28:35.611Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7ed0a8fc-de13-40a9-a4b9-c847e93bf9ef",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-08-01T03:18:43.794Z",
+        "updated_at": "2023-07-31T19:09:21.268Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9fd78fb5-919f-4b33-9cf0-dcd41a3c0ccd",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-07-31T17:53:43.709Z",
+        "updated_at": "2023-07-31T10:02:38.481Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "2f4aca0c-8244-4463-a398-d004e40c1a23",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-08-01T05:42:09.323Z",
+        "updated_at": "2023-07-31T14:37:12.207Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e34ddfc-4c46-4bda-8928-70ef5eacf2e2",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T20:43:33.612Z",
+        "updated_at": "2023-07-31T13:08:02.126Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8bb6bc5-abd9-49b7-a6b5-330d8c5c1eeb",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-08-01T02:07:31.031Z",
+        "updated_at": "2023-07-31T20:47:34.623Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2b91745-6c80-446b-86e9-73e117aa66ec",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T07:47:27.845Z",
+        "updated_at": "2023-07-31T13:37:30.134Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c201b355-31ad-475f-b293-93921bcd9581",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-08-01T07:31:15.250Z",
+        "updated_at": "2023-07-31T17:06:06.726Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "1b9b8740-7898-40bf-8f7f-3db0bc216247",
+        "fuel_type": "Fuel Type 1",
+        "price": 77274,
+        "created_at": "2023-07-31T14:43:35.240Z",
+        "updated_at": "2023-08-01T04:12:03.958Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2af451e0-d5bd-42fb-ae03-b04d9e9e84be",
+        "fuel_type": "Fuel Type 2",
+        "price": 89018,
+        "created_at": "2023-08-01T04:32:07.075Z",
+        "updated_at": "2023-08-01T06:12:44.824Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "13b2e3db-671f-4fef-b076-50968d08eb35",
+        "fuel_type": "Fuel Type 3",
+        "price": 20391,
+        "created_at": "2023-07-31T20:28:40.045Z",
+        "updated_at": "2023-07-31T15:05:32.029Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eb15c81d-57e0-4133-9512-8671e1ec0409",
+        "fuel_type": "Fuel Type 4",
+        "price": 78584,
+        "created_at": "2023-08-01T02:42:39.769Z",
+        "updated_at": "2023-07-31T13:04:48.274Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "965425de-b593-4bba-b02d-17343f0efe62",
+        "fuel_type": "Fuel Type 5",
+        "price": 50594,
+        "created_at": "2023-07-31T12:15:35.510Z",
+        "updated_at": "2023-08-01T00:22:10.612Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "ec21d4dd-27bf-40a6-8d11-2346fc306eec",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-07-31T10:54:42.345Z",
+        "updated_at": "2023-08-01T07:46:24.670Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a34483a4-d198-44f6-9bfb-523630d82d6d",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-07-31T22:26:04.938Z",
+        "updated_at": "2023-07-31T14:08:44.895Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef44cd49-0e2e-4cdb-bbb1-dad3024557bb",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-08-01T06:27:53.124Z",
+        "updated_at": "2023-07-31T18:34:48.792Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d079958e-2587-4880-a0f1-8bb8ec33144f",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-08-01T08:30:11.865Z",
+        "updated_at": "2023-08-01T00:56:28.308Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2007b534-cfc7-4eae-b687-c24a725c3ccc",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T23:43:14.616Z",
+        "updated_at": "2023-07-31T20:57:20.565Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "9b915d0d-8bb9-4c03-a7a6-3f3c74af7fd7",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T17:07:03.182Z",
+        "updated_at": "2023-07-31T11:09:34.036Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c864883-ab8f-4218-bcca-704e0652d204",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T08:43:56.154Z",
+        "updated_at": "2023-07-31T22:07:34.343Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81a3d5c1-2bf8-4190-bcc4-ba3656e69084",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-08-01T06:07:44.262Z",
+        "updated_at": "2023-08-01T08:23:32.417Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8dd1b001-907d-4188-97f5-7cef339669a2",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-08-01T03:44:39.226Z",
+        "updated_at": "2023-07-31T23:47:10.281Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9b805c5-4e29-42df-ba85-b681ee0abe72",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-08-01T05:42:10.946Z",
+        "updated_at": "2023-07-31T22:40:01.650Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "4b1dbb18-a470-4b74-9506-f319de92fb79",
+        "service_info": "Service Info 1",
+        "created_at": "2023-08-01T00:21:19.465Z",
+        "updated_at": "2023-07-31T17:27:53.351Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29dd6673-f802-49e7-b05a-d80f48a9da7f",
+        "service_info": "Service Info 2",
+        "created_at": "2023-07-31T10:43:09.557Z",
+        "updated_at": "2023-07-31T15:49:08.056Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2db241ff-5c2f-4413-bb73-49f588259648",
+        "service_info": "Service Info 3",
+        "created_at": "2023-08-01T03:25:26.342Z",
+        "updated_at": "2023-07-31T21:47:20.028Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42cc4cdd-0cc1-4b10-a63e-e754daea0fca",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T21:01:05.155Z",
+        "updated_at": "2023-08-01T01:09:27.547Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "926e08f3-eeea-4e46-9941-4ad4b18f0941",
+        "service_info": "Service Info 5",
+        "created_at": "2023-07-31T12:26:16.399Z",
+        "updated_at": "2023-07-31T21:35:12.216Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "871da50f-fe27-41a3-a6ea-f9132d01a646",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T11:56:38.413Z",
+        "updated_at": "2023-07-31T20:05:13.594Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4cb45d7b-c39d-4d5f-b00c-78de46f6155b",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-08-01T02:10:54.146Z",
+        "updated_at": "2023-08-01T06:23:59.237Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4d120add-a9e9-497d-be87-57ac9c0f6f9b",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T09:53:53.024Z",
+        "updated_at": "2023-07-31T14:51:45.391Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e1eb4a3a-a4e8-46a1-b4a6-d11ecaddaf92",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-08-01T00:34:55.346Z",
+        "updated_at": "2023-07-31T20:06:26.251Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d2632256-27d8-49e7-873c-41862b672d16",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-08-01T04:27:49.692Z",
+        "updated_at": "2023-08-01T01:44:35.805Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "f8e80025-d855-40d7-b54b-5dc2f3d26b20",
+        "trip_cost": 76143,
+        "created_at": "2023-07-31T23:38:54.067Z",
+        "updated_at": "2023-08-01T04:21:09.275Z",
+        "vehicle_id": "871da50f-fe27-41a3-a6ea-f9132d01a646"
+      },
+      {
+        "id": "73634137-47e8-4676-9390-926825194ce6",
+        "trip_cost": 4157,
+        "created_at": "2023-07-31T10:26:31.297Z",
+        "updated_at": "2023-08-01T02:28:18.829Z",
+        "vehicle_id": "d2632256-27d8-49e7-873c-41862b672d16"
+      },
+      {
+        "id": "895db00c-6ecf-427a-b1ec-49f82d7f6385",
+        "trip_cost": 19907,
+        "created_at": "2023-08-01T05:54:05.495Z",
+        "updated_at": "2023-08-01T07:11:14.181Z",
+        "vehicle_id": "d2632256-27d8-49e7-873c-41862b672d16"
+      },
+      {
+        "id": "560d386b-c9dc-469a-b5d0-d52219b6022e",
+        "trip_cost": 38591,
+        "created_at": "2023-07-31T19:29:47.508Z",
+        "updated_at": "2023-07-31T15:36:03.106Z",
+        "vehicle_id": "4cb45d7b-c39d-4d5f-b00c-78de46f6155b"
+      },
+      {
+        "id": "dc47c055-7c7d-4e46-b246-34a5331a8e7a",
+        "trip_cost": 64186,
+        "created_at": "2023-08-01T01:53:40.992Z",
+        "updated_at": "2023-07-31T16:26:48.591Z",
+        "vehicle_id": "871da50f-fe27-41a3-a6ea-f9132d01a646"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "e86cba34-b6d6-4af3-812f-e00f2e28e3b3",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-08-01T04:39:53.648Z",
+        "updated_at": "2023-07-31T11:59:27.954Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e39e3690-ba99-40d9-bda2-067535461949",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T10:01:55.378Z",
+        "updated_at": "2023-07-31T13:43:30.969Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "79f0b298-e72c-4863-a405-cfb1a2351d99",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-07-31T11:42:28.390Z",
+        "updated_at": "2023-07-31T18:18:56.181Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dd3bf860-a210-4211-b6f4-2f723015b656",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-08-01T08:18:23.023Z",
+        "updated_at": "2023-07-31T16:32:19.889Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fe2df708-51af-4dde-a09e-eaad06886255",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-08-01T05:35:47.228Z",
+        "updated_at": "2023-07-31T09:10:11.580Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "248c36d5-4740-4294-ba7c-f2d8dcc1d413",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T16:15:12.682Z",
+        "updated_at": "2023-07-31T21:57:50.161Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a49f5bac-19a0-4457-942b-ec5a01e697a8",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T11:08:52.740Z",
+        "updated_at": "2023-07-31T21:11:32.589Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ee5ee57-6268-4004-a3ca-f8d198d4f334",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-07-31T21:43:59.311Z",
+        "updated_at": "2023-08-01T08:17:13.574Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b735dae9-bd5f-4d5f-ba1d-4dd1ca4dd5ab",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T06:51:50.262Z",
+        "updated_at": "2023-07-31T18:19:46.957Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17818cc0-3eab-4d98-bd20-199d7bd00ec4",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-07-31T18:39:59.736Z",
+        "updated_at": "2023-07-31T09:07:20.494Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "547829ce-c0c8-47d4-b764-bbaadb271fbc",
+        "fuel_type": "Fuel Type 1",
+        "price": 39374,
+        "created_at": "2023-08-01T05:26:49.239Z",
+        "updated_at": "2023-07-31T18:07:39.368Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "471d55bb-4dc9-4658-b573-8d2ff3224dc1",
+        "fuel_type": "Fuel Type 2",
+        "price": 59057,
+        "created_at": "2023-08-01T06:42:16.561Z",
+        "updated_at": "2023-07-31T15:19:15.459Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd262de5-ac11-47f2-96af-1148347aa7ec",
+        "fuel_type": "Fuel Type 3",
+        "price": 83690,
+        "created_at": "2023-07-31T15:24:26.495Z",
+        "updated_at": "2023-08-01T06:00:09.265Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "acfa0441-b1a2-46ac-9b2c-57c0efd23e95",
+        "fuel_type": "Fuel Type 4",
+        "price": 89093,
+        "created_at": "2023-07-31T13:09:32.484Z",
+        "updated_at": "2023-07-31T20:24:04.272Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "29a373db-3d93-4fe2-adb1-0ef56bab1a6f",
+        "fuel_type": "Fuel Type 5",
+        "price": 82527,
+        "created_at": "2023-07-31T13:47:25.061Z",
+        "updated_at": "2023-07-31T23:42:35.226Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "9b94dcf6-5fbf-48c3-a051-e932872293cd",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-07-31T20:26:04.534Z",
+        "updated_at": "2023-07-31T12:23:54.333Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbe603be-8e68-4e58-83b0-5dca2890e4d8",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-07-31T22:13:11.502Z",
+        "updated_at": "2023-08-01T01:40:29.678Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca9c4bf6-7f1c-4294-8f27-fbf5c363c8a9",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-07-31T21:44:24.976Z",
+        "updated_at": "2023-07-31T12:45:56.277Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d383a862-4f91-43da-93a3-f78bd7e243eb",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-07-31T20:22:00.970Z",
+        "updated_at": "2023-07-31T12:19:55.009Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1fd4627-5e84-433f-9f14-1b3e2068789d",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T19:33:29.113Z",
+        "updated_at": "2023-07-31T21:26:24.305Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "452e5420-3871-415e-837c-fed7076e587e",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-08-01T07:51:17.599Z",
+        "updated_at": "2023-07-31T09:31:35.651Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e494a22f-371a-4c51-82ed-00d9c4ce835f",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-08-01T00:50:11.446Z",
+        "updated_at": "2023-08-01T00:00:40.378Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51611655-02c7-4407-b501-effa7e18a98f",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-07-31T14:34:29.172Z",
+        "updated_at": "2023-07-31T14:55:56.967Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a1bee46-0307-473f-b542-6d3e0dc56600",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T15:08:36.438Z",
+        "updated_at": "2023-07-31T14:02:50.414Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "347b95cd-0623-4eb7-8b29-c679986f6f4a",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-08-01T05:04:23.817Z",
+        "updated_at": "2023-07-31T15:46:00.454Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "1f347f49-1c4b-4a18-a4c1-7ab74d846d23",
+        "service_info": "Service Info 1",
+        "created_at": "2023-07-31T11:10:27.150Z",
+        "updated_at": "2023-07-31T20:02:39.495Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d810f848-4252-4540-ab93-745f17e22ff9",
+        "service_info": "Service Info 2",
+        "created_at": "2023-08-01T02:31:58.259Z",
+        "updated_at": "2023-07-31T14:56:06.889Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b69860ad-5516-4113-9a4b-00637f836ed6",
+        "service_info": "Service Info 3",
+        "created_at": "2023-08-01T02:03:29.311Z",
+        "updated_at": "2023-08-01T08:01:20.569Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16c4172c-e418-4373-8a7f-6463244ad524",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T20:44:44.144Z",
+        "updated_at": "2023-07-31T13:25:36.303Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11351d18-bf1e-4f8d-a1ce-660e2518e707",
+        "service_info": "Service Info 5",
+        "created_at": "2023-07-31T12:03:00.937Z",
+        "updated_at": "2023-07-31T22:29:55.435Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "dc92ffa1-d18a-42e7-9b31-db8e68ebe619",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T19:49:59.751Z",
+        "updated_at": "2023-07-31T17:48:23.285Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f31fe00-f663-465a-99f1-bac8593254c7",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-07-31T15:42:03.864Z",
+        "updated_at": "2023-07-31T12:29:29.498Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5013d85c-cc8d-40fa-b0e1-9f4d879cd544",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T21:48:01.035Z",
+        "updated_at": "2023-08-01T03:37:20.078Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dd8a8223-a319-4051-aa27-ad7c791d1dd6",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-07-31T19:15:51.784Z",
+        "updated_at": "2023-07-31T16:46:12.414Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9764029b-5017-4c3f-bff3-2becb218adfc",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-07-31T11:11:50.273Z",
+        "updated_at": "2023-08-01T02:05:55.963Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "1c1bd362-0fbf-43d8-9319-015f42935e2a",
+        "trip_cost": 40762,
+        "created_at": "2023-07-31T13:47:57.566Z",
+        "updated_at": "2023-07-31T09:48:58.603Z",
+        "vehicle_id": "9764029b-5017-4c3f-bff3-2becb218adfc"
+      },
+      {
+        "id": "6d0dcb0c-a7c8-46c6-af6f-440cb5148fff",
+        "trip_cost": 83646,
+        "created_at": "2023-07-31T23:51:29.672Z",
+        "updated_at": "2023-08-01T01:51:12.054Z",
+        "vehicle_id": "dc92ffa1-d18a-42e7-9b31-db8e68ebe619"
+      },
+      {
+        "id": "bdd28b3b-b6b7-4a9c-b078-a82e0402430b",
+        "trip_cost": 3607,
+        "created_at": "2023-07-31T18:41:11.286Z",
+        "updated_at": "2023-08-01T02:08:58.618Z",
+        "vehicle_id": "5013d85c-cc8d-40fa-b0e1-9f4d879cd544"
+      },
+      {
+        "id": "13504c63-15c6-4828-9fac-8348d538d9a1",
+        "trip_cost": 50029,
+        "created_at": "2023-07-31T16:23:46.779Z",
+        "updated_at": "2023-07-31T22:12:54.114Z",
+        "vehicle_id": "5013d85c-cc8d-40fa-b0e1-9f4d879cd544"
+      },
+      {
+        "id": "cfff6c51-02ec-46c2-b6c5-ff505978de84",
+        "trip_cost": 16674,
+        "created_at": "2023-08-01T07:31:03.750Z",
+        "updated_at": "2023-07-31T14:11:05.669Z",
+        "vehicle_id": "dc92ffa1-d18a-42e7-9b31-db8e68ebe619"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "ed458078-5e4d-4d21-8570-f9d654b93ea7",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T23:38:57.934Z",
+        "updated_at": "2023-07-31T12:47:17.891Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bb8f163f-d0c3-475d-96bc-017fd2a142f8",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-08-01T01:00:08.573Z",
+        "updated_at": "2023-07-31T20:08:02.112Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5e0ffa15-2efa-4168-9e56-f912b3f3a1a0",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-08-01T06:07:14.360Z",
+        "updated_at": "2023-07-31T16:54:06.049Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "88c979f7-a958-4b85-bb75-49e5e11c645c",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-07-31T23:25:19.180Z",
+        "updated_at": "2023-08-01T03:35:15.522Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1980572b-5f81-4dbe-969d-e5ae5efea94e",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-07-31T09:32:12.560Z",
+        "updated_at": "2023-07-31T22:02:57.409Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "17ab39a0-c0ae-4e41-a7dd-1b20d69ddf21",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-08-01T05:21:10.892Z",
+        "updated_at": "2023-08-01T06:33:35.992Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa0afb38-011e-4be2-96a2-92126f06080a",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T18:10:51.805Z",
+        "updated_at": "2023-07-31T21:53:27.281Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12a63448-d9b9-4231-ba43-8e3ff1512ca5",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-08-01T05:35:15.693Z",
+        "updated_at": "2023-08-01T05:02:07.071Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9905ffb5-6b95-4412-9893-6cc15d27dd0e",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T08:19:41.576Z",
+        "updated_at": "2023-08-01T06:24:53.463Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3bf34cb-1dee-4cae-8f6f-b69addf07690",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-07-31T15:17:11.777Z",
+        "updated_at": "2023-07-31T09:22:09.837Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "3bb74fa5-e37c-425d-ac85-6471e83c8da2",
+        "fuel_type": "Fuel Type 1",
+        "price": 67227,
+        "created_at": "2023-08-01T05:25:29.067Z",
+        "updated_at": "2023-08-01T01:43:04.987Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "01f372ce-ba02-4419-9a8f-68ba1551fb21",
+        "fuel_type": "Fuel Type 2",
+        "price": 68839,
+        "created_at": "2023-07-31T08:35:49.236Z",
+        "updated_at": "2023-08-01T06:04:06.208Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4a644138-cc43-4f26-a4fa-1aae0af3305a",
+        "fuel_type": "Fuel Type 3",
+        "price": 92627,
+        "created_at": "2023-07-31T21:02:14.627Z",
+        "updated_at": "2023-08-01T05:19:55.984Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4e505ca3-049b-4d5d-93e5-0704c9b797f5",
+        "fuel_type": "Fuel Type 4",
+        "price": 70179,
+        "created_at": "2023-07-31T20:49:39.456Z",
+        "updated_at": "2023-08-01T02:01:59.416Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "459039f4-805b-429e-9301-2894b2c7ccc3",
+        "fuel_type": "Fuel Type 5",
+        "price": 95317,
+        "created_at": "2023-08-01T08:27:07.261Z",
+        "updated_at": "2023-08-01T07:45:18.997Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "71df75ea-0ca9-4d10-b543-cd2fd36ca82f",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-07-31T15:30:58.950Z",
+        "updated_at": "2023-07-31T10:37:54.674Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ffe33be6-f251-48b5-ac53-8770230ed111",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-08-01T05:58:59.927Z",
+        "updated_at": "2023-08-01T00:23:30.033Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "182aae7b-7a39-44e9-9ced-990f9a4b8653",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-08-01T06:58:37.632Z",
+        "updated_at": "2023-07-31T13:54:19.263Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cef1b60-564d-4586-b99b-8ffc727af9cb",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-07-31T10:01:18.139Z",
+        "updated_at": "2023-08-01T05:19:51.027Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2bea16f0-c0ff-466a-9248-810c2dd801db",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T13:44:59.093Z",
+        "updated_at": "2023-07-31T18:28:16.384Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "140a6b40-eac2-4dd3-94cf-bdba9e3e336b",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T20:47:00.723Z",
+        "updated_at": "2023-07-31T10:59:31.162Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4fa0fbe2-7194-4077-95ed-2bc917536c85",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T14:45:21.735Z",
+        "updated_at": "2023-08-01T03:03:30.785Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63f62253-eb8c-43ef-b11e-be006cc97314",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-08-01T08:18:09.665Z",
+        "updated_at": "2023-08-01T08:22:32.345Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2b8f1d9-eaee-45f6-88cd-b8fde313accd",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T18:40:21.919Z",
+        "updated_at": "2023-07-31T21:36:56.027Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94673cec-1488-4f0c-9c31-78b3dc3b4a8b",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-07-31T23:46:27.256Z",
+        "updated_at": "2023-08-01T08:28:26.506Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "1cc9e9aa-bc27-49f8-a5bf-931822016e09",
+        "service_info": "Service Info 1",
+        "created_at": "2023-07-31T22:26:52.311Z",
+        "updated_at": "2023-07-31T18:52:13.741Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b903c39b-da80-45ec-9502-ac81f175fe37",
+        "service_info": "Service Info 2",
+        "created_at": "2023-08-01T03:08:42.112Z",
+        "updated_at": "2023-07-31T14:03:39.575Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd038506-7939-481f-9408-55612c09429a",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T20:10:41.373Z",
+        "updated_at": "2023-08-01T01:41:50.205Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5921c84-ccb0-48ac-9e6a-ba37f8c2acb8",
+        "service_info": "Service Info 4",
+        "created_at": "2023-08-01T01:46:18.449Z",
+        "updated_at": "2023-07-31T16:32:25.160Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e746c6f-4a29-43e9-b431-bdb687cd5756",
+        "service_info": "Service Info 5",
+        "created_at": "2023-08-01T02:58:27.360Z",
+        "updated_at": "2023-07-31T17:02:52.402Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "f1dc9206-9ca4-4608-aa5e-e7db31a80b95",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-07-31T11:44:23.496Z",
+        "updated_at": "2023-07-31T15:01:12.107Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "666333cb-4d55-4890-8a4e-1fb8e5c07bbe",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-07-31T13:30:02.420Z",
+        "updated_at": "2023-08-01T01:54:30.329Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fae1373d-cf28-45cb-b212-289b3c592151",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T17:53:05.509Z",
+        "updated_at": "2023-07-31T23:11:43.665Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd645319-e7d9-4781-b765-04f2059e27eb",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-08-01T05:58:48.723Z",
+        "updated_at": "2023-07-31T23:32:17.515Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6af641bb-c6de-4976-8734-cfca1b39b62d",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-08-01T01:51:09.444Z",
+        "updated_at": "2023-07-31T22:39:49.927Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "9b4feac1-16d1-440c-bb9f-3ac84e15064b",
+        "trip_cost": 44333,
+        "created_at": "2023-07-31T14:31:03.492Z",
+        "updated_at": "2023-08-01T04:30:20.175Z",
+        "vehicle_id": "bd645319-e7d9-4781-b765-04f2059e27eb"
+      },
+      {
+        "id": "328f6e17-45dc-4ebd-a419-37c918c07c59",
+        "trip_cost": 64390,
+        "created_at": "2023-07-31T11:45:32.172Z",
+        "updated_at": "2023-08-01T02:40:27.315Z",
+        "vehicle_id": "666333cb-4d55-4890-8a4e-1fb8e5c07bbe"
+      },
+      {
+        "id": "4c264907-86da-4a0d-a579-4e3482c257e9",
+        "trip_cost": 17178,
+        "created_at": "2023-07-31T20:19:43.781Z",
+        "updated_at": "2023-08-01T03:55:46.732Z",
+        "vehicle_id": "666333cb-4d55-4890-8a4e-1fb8e5c07bbe"
+      },
+      {
+        "id": "104973b9-ca55-4567-8785-2cef9d3844c2",
+        "trip_cost": 80754,
+        "created_at": "2023-08-01T01:12:15.042Z",
+        "updated_at": "2023-07-31T23:04:55.830Z",
+        "vehicle_id": "666333cb-4d55-4890-8a4e-1fb8e5c07bbe"
+      },
+      {
+        "id": "d6457e94-a009-4d96-937b-690294adf94e",
+        "trip_cost": 21708,
+        "created_at": "2023-07-31T12:32:56.310Z",
+        "updated_at": "2023-07-31T12:33:13.377Z",
+        "vehicle_id": "6af641bb-c6de-4976-8734-cfca1b39b62d"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "84dd25f2-b5fa-43f5-8fea-a2b59371978f",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T12:01:28.027Z",
+        "updated_at": "2023-07-31T11:42:13.865Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dc733635-031d-42d8-a776-fdbd517b4e2c",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-07-31T18:07:55.679Z",
+        "updated_at": "2023-07-31T14:37:53.585Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3987e2fd-9fb8-4d40-b06d-0715c21122da",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-07-31T10:02:37.566Z",
+        "updated_at": "2023-07-31T12:45:11.749Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c4e93cc2-10f3-4852-a63d-44ce8c0ae94d",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-07-31T18:53:32.256Z",
+        "updated_at": "2023-07-31T23:17:47.619Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ab8f1192-5eee-4ab4-a69a-e76403b4796a",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-08-01T05:53:07.192Z",
+        "updated_at": "2023-08-01T05:33:21.570Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "23271ddc-be72-4b6b-a127-08f7b2141bae",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-07-31T16:17:17.286Z",
+        "updated_at": "2023-07-31T20:31:56.178Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0f07bba-d147-4642-b15f-47d08dfb1007",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-07-31T23:44:29.300Z",
+        "updated_at": "2023-07-31T11:39:56.526Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "456cdd84-caff-4688-802d-c2943b4c11bf",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-08-01T07:38:26.482Z",
+        "updated_at": "2023-07-31T12:41:01.260Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da659543-35db-44c5-b523-175534f5b6a7",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-07-31T22:25:21.584Z",
+        "updated_at": "2023-07-31T09:16:12.816Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5cafb6d-1293-4562-bb30-892cd54057a8",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-07-31T23:45:14.695Z",
+        "updated_at": "2023-07-31T23:03:45.886Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "4a66a790-e62d-4fd0-b300-64dfd8e6ae3a",
+        "fuel_type": "Fuel Type 1",
+        "price": 36414,
+        "created_at": "2023-07-31T19:12:53.132Z",
+        "updated_at": "2023-07-31T21:29:36.308Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a7d74a42-e963-4c4d-a833-9680978750cb",
+        "fuel_type": "Fuel Type 2",
+        "price": 25011,
+        "created_at": "2023-07-31T14:13:55.565Z",
+        "updated_at": "2023-08-01T06:03:13.659Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1773ab85-9a15-48cb-959a-33274de5b6ab",
+        "fuel_type": "Fuel Type 3",
+        "price": 89914,
+        "created_at": "2023-08-01T05:28:13.012Z",
+        "updated_at": "2023-07-31T12:49:58.521Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "10732ad0-10d9-442d-ba69-d60501a68106",
+        "fuel_type": "Fuel Type 4",
+        "price": 55912,
+        "created_at": "2023-08-01T02:28:46.032Z",
+        "updated_at": "2023-07-31T23:41:39.543Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c2b8a2c0-f017-4060-867e-0e41d6cc7bb2",
+        "fuel_type": "Fuel Type 5",
+        "price": 69578,
+        "created_at": "2023-08-01T00:44:17.013Z",
+        "updated_at": "2023-08-01T02:21:19.266Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "38aa9dec-6568-48fb-b45c-1b8669001661",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-08-01T03:53:01.156Z",
+        "updated_at": "2023-07-31T11:00:13.624Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b31392bb-687e-4739-bd83-5cf3f5ed7071",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-07-31T20:14:31.775Z",
+        "updated_at": "2023-07-31T09:52:37.474Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07b4e334-f0f5-4601-b528-5e344360d930",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-08-01T03:25:47.477Z",
+        "updated_at": "2023-08-01T04:48:10.324Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44bf8798-109b-48d7-913e-6478f5ad565e",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-08-01T01:51:31.282Z",
+        "updated_at": "2023-08-01T06:54:24.798Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26dca91e-2609-4582-a754-641c90b9df14",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-08-01T02:13:22.409Z",
+        "updated_at": "2023-07-31T13:36:35.728Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "supply": [
+      {
+        "id": "379374ed-dce3-4a2e-9e43-2b9eb7a1e9f2",
+        "supply_info": "Supply Info 1",
+        "created_at": "2023-07-31T22:24:06.528Z",
+        "updated_at": "2023-08-01T05:39:34.812Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93bcb864-28a9-4603-a5e7-1d657dfe5d4b",
+        "supply_info": "Supply Info 2",
+        "created_at": "2023-07-31T13:38:48.312Z",
+        "updated_at": "2023-07-31T22:33:03.592Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2719d5d-d397-4516-8497-7a4d1386e660",
+        "supply_info": "Supply Info 3",
+        "created_at": "2023-08-01T00:14:46.352Z",
+        "updated_at": "2023-08-01T06:57:28.820Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b739594-10b0-46b4-92a7-8477c769b080",
+        "supply_info": "Supply Info 4",
+        "created_at": "2023-07-31T11:00:16.961Z",
+        "updated_at": "2023-07-31T21:36:02.757Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1381df2b-b40d-414b-8ad8-7217c0b26ae7",
+        "supply_info": "Supply Info 5",
+        "created_at": "2023-07-31T16:43:24.010Z",
+        "updated_at": "2023-07-31T15:00:04.268Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "service": [
+      {
+        "id": "b48bf882-ec74-4dd4-89c0-98d92b66039e",
+        "service_info": "Service Info 1",
+        "created_at": "2023-08-01T07:56:10.423Z",
+        "updated_at": "2023-07-31T23:01:41.370Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdb4101a-12ad-4ab9-8fd1-2739eb8966d7",
+        "service_info": "Service Info 2",
+        "created_at": "2023-07-31T17:08:19.141Z",
+        "updated_at": "2023-07-31T09:30:22.300Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3e8ba6c-48ac-4fe9-98db-706eb85a24a6",
+        "service_info": "Service Info 3",
+        "created_at": "2023-07-31T15:54:02.717Z",
+        "updated_at": "2023-08-01T04:03:31.857Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c94bb8dd-5857-4f05-8075-acea92c46ab5",
+        "service_info": "Service Info 4",
+        "created_at": "2023-07-31T18:09:46.369Z",
+        "updated_at": "2023-07-31T12:37:36.011Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ebe4ad8-7a2d-428b-a6de-08eedbb80dd0",
+        "service_info": "Service Info 5",
+        "created_at": "2023-07-31T19:42:02.947Z",
+        "updated_at": "2023-07-31T14:57:32.539Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vehicle": [
+      {
+        "id": "07fc1c96-7fd5-4699-bae6-da9ac3bfe423",
+        "vehicle_info": "Vehicle Info 1",
+        "created_at": "2023-08-01T01:51:44.368Z",
+        "updated_at": "2023-08-01T08:11:22.460Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ad27b1f3-8538-45af-b5f4-564d67b71a72",
+        "vehicle_info": "Vehicle Info 2",
+        "created_at": "2023-08-01T04:05:28.144Z",
+        "updated_at": "2023-08-01T08:18:56.189Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "256145ea-0630-41be-8781-cbaaf04749ed",
+        "vehicle_info": "Vehicle Info 3",
+        "created_at": "2023-07-31T21:38:19.832Z",
+        "updated_at": "2023-07-31T16:58:48.025Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d2362424-60ae-4904-a403-b261f9ed8c6a",
+        "vehicle_info": "Vehicle Info 4",
+        "created_at": "2023-07-31T12:06:58.598Z",
+        "updated_at": "2023-07-31T15:22:28.819Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "863aae51-94ea-441e-b0d8-dd4a02edd25c",
+        "vehicle_info": "Vehicle Info 5",
+        "created_at": "2023-07-31T17:54:54.238Z",
+        "updated_at": "2023-07-31T23:40:43.440Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "trip": [
+      {
+        "id": "4210089b-b7c5-4a53-8145-f8508d9c8e80",
+        "trip_cost": 77900,
+        "created_at": "2023-07-31T17:25:39.589Z",
+        "updated_at": "2023-08-01T06:11:50.983Z",
+        "vehicle_id": "863aae51-94ea-441e-b0d8-dd4a02edd25c"
+      },
+      {
+        "id": "cd55ac56-32bc-4c22-970d-995262d3f4c8",
+        "trip_cost": 69914,
+        "created_at": "2023-07-31T09:49:43.836Z",
+        "updated_at": "2023-07-31T19:08:53.777Z",
+        "vehicle_id": "256145ea-0630-41be-8781-cbaaf04749ed"
+      },
+      {
+        "id": "ab12bb44-9d95-48c6-8246-5a548cdd8e29",
+        "trip_cost": 96835,
+        "created_at": "2023-07-31T15:10:12.871Z",
+        "updated_at": "2023-07-31T17:58:00.925Z",
+        "vehicle_id": "ad27b1f3-8538-45af-b5f4-564d67b71a72"
+      },
+      {
+        "id": "1262a7e2-7b92-48fe-9fe0-cfe0d2dbc193",
+        "trip_cost": 35774,
+        "created_at": "2023-07-31T11:38:46.166Z",
+        "updated_at": "2023-07-31T10:45:23.100Z",
+        "vehicle_id": "256145ea-0630-41be-8781-cbaaf04749ed"
+      },
+      {
+        "id": "4850cdf6-c5d9-4dc1-af57-bf78e6fc7001",
+        "trip_cost": 73075,
+        "created_at": "2023-08-01T00:42:43.789Z",
+        "updated_at": "2023-07-31T20:28:48.370Z",
+        "vehicle_id": "07fc1c96-7fd5-4699-bae6-da9ac3bfe423"
+      }
+    ],
+    "reminder": [
+      {
+        "id": "88689fad-3e8f-42d1-8ad9-c65efc85ab83",
+        "reminder_info": "Reminder Info 1",
+        "created_at": "2023-07-31T16:51:08.064Z",
+        "updated_at": "2023-07-31T12:23:10.983Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "03a25410-9c0b-415b-b0da-5c49f9416e2c",
+        "reminder_info": "Reminder Info 2",
+        "created_at": "2023-08-01T02:25:54.974Z",
+        "updated_at": "2023-07-31T22:37:59.919Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dc4e2fd0-96c3-4b15-9f2b-bb47f6017c8c",
+        "reminder_info": "Reminder Info 3",
+        "created_at": "2023-07-31T12:15:18.821Z",
+        "updated_at": "2023-07-31T10:03:55.112Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c459d4c8-2ed2-4159-ba84-38a412b1afcf",
+        "reminder_info": "Reminder Info 4",
+        "created_at": "2023-07-31T23:23:27.049Z",
+        "updated_at": "2023-07-31T08:51:11.753Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e5f1f30d-951f-496d-aa8f-a2147c07ab78",
+        "reminder_info": "Reminder Info 5",
+        "created_at": "2023-07-31T23:35:41.521Z",
+        "updated_at": "2023-08-01T01:43:20.963Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loading_slip": [
+      {
+        "id": "bd150979-e7d5-49c8-8746-98c80c5b47bd",
+        "slip_info": "Slip Info 1",
+        "created_at": "2023-08-01T01:51:31.594Z",
+        "updated_at": "2023-07-31T22:38:27.857Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d288f2d-3bec-473f-bac7-0aa91607bf44",
+        "slip_info": "Slip Info 2",
+        "created_at": "2023-08-01T03:36:43.216Z",
+        "updated_at": "2023-07-31T13:55:18.169Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43cb5b65-cd65-4251-b3f5-26907a2ac5b7",
+        "slip_info": "Slip Info 3",
+        "created_at": "2023-08-01T06:39:03.638Z",
+        "updated_at": "2023-07-31T18:34:15.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d652c052-5a73-48ff-b6a3-451fcf670415",
+        "slip_info": "Slip Info 4",
+        "created_at": "2023-08-01T06:25:04.864Z",
+        "updated_at": "2023-07-31T10:01:16.162Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24f6e758-2194-4792-94e6-f2025bf119a8",
+        "slip_info": "Slip Info 5",
+        "created_at": "2023-08-01T03:31:13.160Z",
+        "updated_at": "2023-07-31T08:55:26.279Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "fuel": [
+      {
+        "id": "8cbb8ec5-8ecf-4597-8080-641ccdf883f4",
+        "fuel_type": "Fuel Type 1",
+        "price": 77566,
+        "created_at": "2023-07-31T13:18:12.339Z",
+        "updated_at": "2023-08-01T04:21:06.602Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8092a8ad-9d7c-4ea5-82e3-fabc1c64bac5",
+        "fuel_type": "Fuel Type 2",
+        "price": 41536,
+        "created_at": "2023-07-31T16:59:44.288Z",
+        "updated_at": "2023-07-31T11:43:19.350Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9c78bf13-4ab0-4640-a253-45679cb4a638",
+        "fuel_type": "Fuel Type 3",
+        "price": 55852,
+        "created_at": "2023-08-01T05:32:24.545Z",
+        "updated_at": "2023-07-31T20:37:21.666Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b36bb15a-8306-48a0-b63e-bdc1a4268393",
+        "fuel_type": "Fuel Type 4",
+        "price": 77186,
+        "created_at": "2023-08-01T00:20:26.164Z",
+        "updated_at": "2023-08-01T06:34:34.618Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f4377ebd-bccf-491e-9689-a5be52d8e93e",
+        "fuel_type": "Fuel Type 5",
+        "price": 85179,
+        "created_at": "2023-07-31T11:17:39.913Z",
+        "updated_at": "2023-07-31T10:44:54.595Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "e_bill": [
+      {
+        "id": "2b42d403-1692-402d-afeb-e5c84e5e2e74",
+        "bill_info": "Bill Info 1",
+        "created_at": "2023-08-01T07:44:07.321Z",
+        "updated_at": "2023-08-01T07:45:46.657Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe419301-8a88-4f62-a428-0af4e9df111c",
+        "bill_info": "Bill Info 2",
+        "created_at": "2023-08-01T06:50:02.312Z",
+        "updated_at": "2023-07-31T13:32:41.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92a1a5d5-585c-4bfc-b1dc-641a2dbbee29",
+        "bill_info": "Bill Info 3",
+        "created_at": "2023-07-31T20:38:50.162Z",
+        "updated_at": "2023-08-01T07:51:43.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e78e27f-6fb6-41a7-9dde-3d561effda40",
+        "bill_info": "Bill Info 4",
+        "created_at": "2023-08-01T06:39:04.218Z",
+        "updated_at": "2023-08-01T04:50:25.171Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1a5673d-6daa-49c0-875a-416e4b166981",
+        "bill_info": "Bill Info 5",
+        "created_at": "2023-07-31T23:13:29.314Z",
+        "updated_at": "2023-08-01T05:08:29.183Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  }
+]
